@@ -1,8 +1,8 @@
-Proyecto-Tiburon
+# Proyecto-Tiburon
 ================
 
 
-Ideas  para seleccionar
+### Ideas  para seleccionar
 
 Introducción a la música electrónica (construcción de pistas Dance)  
 Secuenciadores  
