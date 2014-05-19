@@ -22,7 +22,11 @@ http://jardincosmico.meteor.com/posts/WdkuJXNExLYRN9amX
 ### Ideas después de aclarar con Fede!
 
 * Llavero sónico  
-* Apodo sonico
-* convertidor de colores a sonidos y viseversa 
-* matraca electronica  
+* Apodo sónico
+* Convertidor de colores a sonidos y viceversa 
+* Matraca electrónica  
+* Música para el abismo
+* Facebook de sonidos
 * 
+*
+
