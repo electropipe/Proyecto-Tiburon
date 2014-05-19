@@ -18,3 +18,11 @@ http://jardincosmico.meteor.com/posts/WdkuJXNExLYRN9amX
 * Secuenciado en Midi compitiendo con la realidad   
 * La banda sonora del videojuego  (música en 8 bits)   
 * Música fractal para otras realidades ( arpegiadores, delays y automatizaciones. Simulación de música generativa)    
+
+### Ideas después de aclarar con Fede!
+
+* Llavero sónico  
+* Apodo sonico
+* convertidor de colores a sonidos y viseversa 
+* matraca electronica  
+* 
