@@ -27,6 +27,25 @@ http://jardincosmico.meteor.com/posts/WdkuJXNExLYRN9amX
 * Matraca electrónica  
 * Música para el abismo
 * Facebook de sonidos
-* 
+* Centrifugador de calamidades
+* Un retrovisor del futuro
+* Contador de pensamientos negativos
+* Enfocador de tareas por hora
+* Pastillas de importaculismo
+* Un pisa-recuerdos
+* Detector de corrupción
+* Diccionario de paradojas
+* Rayo laser infalible para cupido
+* Regenerador de inocencia
+* Boomerang con temporizador
+* Purificador microondas para convertir comida saludable
+* Un fader de resiliencia para las desgracias
+* Traductor animal y vegetal
+* Eliminador de canciones que sean 90% exactas
+
+
+
+
+
 *
 
