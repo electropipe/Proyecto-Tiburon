@@ -46,9 +46,11 @@ http://jardincosmico.meteor.com/posts/WdkuJXNExLYRN9amX
 
 ###Preguntas a resolver  
 
-Cual es el instrumento mínimo para hacer el taller de música electrónica?  
-Que hacer cuando tenga una audiencia muy numerosa? 
-Que hacer cuando tenga una audiencia muy dispareja en conocimientos? 
+Cual es el instrumento mínimo para hacer el taller de música electrónica?    
+
+Que hacer cuando tenga una audiencia muy numerosa?   
+
+Que hacer cuando tenga una audiencia muy dispareja en conocimientos?   
 
 
 
