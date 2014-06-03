@@ -44,7 +44,9 @@ http://jardincosmico.meteor.com/posts/WdkuJXNExLYRN9amX
 * Eliminador de canciones que sean 90% exactas
 
 
+###Preguntas a resolver  
 
+Cual es el instrumento mínimo para hacer el taller de música electrónica? 
 
 
 
