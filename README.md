@@ -52,6 +52,8 @@ Que hacer cuando tenga una audiencia muy numerosa?
 
 Que hacer cuando tenga una audiencia muy dispareja en conocimientos?   
 
+Como lograr la motivación en la charlas?   
+
 
 
 
