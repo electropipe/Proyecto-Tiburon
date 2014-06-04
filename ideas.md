@@ -4,10 +4,10 @@ Crear una lista de canciones que sean útiles para la investigación.
 
 ### Actividades
 
-Investigar y analizar canciones folclóricas que contengan 6/8 como base. 
-•	Instrumentación
-•	Formas rítmicas
-
+Investigar y analizar canciones folclóricas que contengan 6/8 como base.    
+•	Instrumentación   
+•	Formas rítmicas   
+ 
 Definir los elementos fuertes y débiles en prioridad sonora. 
 
 
