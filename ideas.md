@@ -2,6 +2,8 @@ El reto que pretende resolver este proyecto es *__Lograr una sonoridad nueva med
 
 Crear una lista de canciones que sean útiles para la investigación. 
 
+### Actividades
+
 Investigar y analizar canciones folclóricas que contengan 6/8 como base. 
 •	Instrumentación
 •	Formas rítmicas
@@ -10,7 +12,7 @@ Definir los elementos fuertes y débiles en prioridad sonora.
 
 
 
-### Actividades y experimentos:
+### Experimentos
 
 Calcar un currulao y pasarlo a sonido Dance.  
 Generar múltiples grooves a partir del paralelo rítmico entre currulao y Dance music  
