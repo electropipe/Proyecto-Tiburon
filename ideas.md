@@ -1,4 +1,4 @@
-El reto que pretende resolver este proyecto es *__Lograr una sonoridad nueva mediante la fusión de folclor colombiano con música Dance y combine métricas de 6/8 con 4/4__* 
+El reto que pretende resolver este proyecto es *__Lograr una sonoridad nueva mediante la fusión de folclor con música Dance y combine métricas de 6/8 con 4/4__* 
 
 Crear una lista de canciones que sean útiles para la investigación. 
 
