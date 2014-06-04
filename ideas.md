@@ -1,4 +1,4 @@
-*__Lograr una sonoridad nueva mediante la fusión de folclor colombiano con música Dance y combine métricas de 6/8 con 4/4__* 
+El reto que pretende resolver este proyecto es *__Lograr una sonoridad nueva mediante la fusión de folclor colombiano con música Dance y combine métricas de 6/8 con 4/4__* 
 
 Crear una lista de canciones que sean útiles para la investigación. 
 
@@ -10,14 +10,14 @@ Definir los elementos fuertes y débiles en prioridad sonora.
 
 
 
-Actividades y experimentos:
+### Actividades y experimentos:
 
 Calcar un currulao y pasarlo a sonido Dance.  
 Generar múltiples grooves a partir del paralelo rítmico entre currulao y Dance music  
 Sobreponer ritmos basado en técnicas de Techno.  
 
 
-Investigaciones alternas.  
+### Investigaciones alternas.  
 Como surgieron algunos géneros nuevos como el Reggaeton o el Dubstep?  
 Que define un genero?  
 Que define una fusión?  
