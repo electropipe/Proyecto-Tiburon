@@ -14,6 +14,9 @@ Definir la prioridad sonora de sus elementos.
 
 Generar un debate con 5 percusionistas sobre como lograr esto y tomar nota de los puntos de vista que salgan.  
 
+investigar las raices desde el punto de vista antropologico, sobre un genero de 6/8 con un genero Dance.
+Buscar similitudes y diferencias, depurarlas y llevarlas a musica
+
 
 
 
