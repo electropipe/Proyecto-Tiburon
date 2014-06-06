@@ -1,6 +1,9 @@
-El reto que pretende resolver este proyecto es *__Lograr una sonoridad nueva mediante la fusión de folclor con música Dance, combinando métricas de 6/8 con 4/4__* 
+El reto que pretende resolver este proyecto es
+*__Como lograr fusionar la métricas de 6/8 con 4/4?__* 
 
-Crear una lista de canciones que sean útiles para la investigación. 
+
+
+Crear una lista de 10 canciones que sean útiles para la investigación. 
 
 ### Actividades
 
