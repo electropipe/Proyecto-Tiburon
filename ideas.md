@@ -8,7 +8,7 @@ El reto que pretende resolver este proyecto es
 
 Crear una lista de 10 canciones que sean útiles para la investigación. 
 
-Analizar canciones folclóricas que contengan 6/8 como base desde su su rítmica, armonia, melodia, timbres, alturas, instrumentación, etc  
+Analizar canciones folclóricas que contengan 6/8 como base desde su su rítmica, armonia, melodia, timbres, alturas, velocidad, instrumentación, etc  
  
 Definir la prioridad sonora de sus elementos. 
 
