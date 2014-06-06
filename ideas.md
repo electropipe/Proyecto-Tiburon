@@ -13,10 +13,11 @@ Analizar canciones folclóricas que contengan 6/8 como base desde su su rítmica
 Definir la prioridad sonora de sus elementos. 
 
 Generar un debate con 5 percusionistas sobre como lograr esto y tomar nota de los puntos de vista que salgan.    
+
 Generar un debate con 5 bailarines sobre lo relevante del 6/8 y el 4/4. depurarlo y redebatirlo con la charla de los percusionistas.  
 
-investigar las raices desde el punto de vista antropologico, sobre un genero de 6/8 con un genero Dance.
-Buscar similitudes y diferencias, depurarlas y llevarlas a musica
+investigar las raices desde el punto de vista antropologico, sobre un genero de 6/8 con un genero Dance.  
+Buscar similitudes y diferencias, depurarlas y llevarlas a musica.   
 
 poner a jammiar en una base de 4/4 a un musico autoctono de folclor a 6/8.  grabar la secion. picarla en loops y someterla a bailarines.  Anotar sus opiniones.  
 
