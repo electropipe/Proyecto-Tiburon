@@ -28,6 +28,8 @@ Buscar similitudes y diferencias, depurarlas y llevarlas a musica.
 
 * Someter a un músico autóctono a que componga su música desde un secuenciador con sonido limitados al Dance.    
   Someter a un músico electro a que componga su música desde un secuenciador con instrumentos autóctonos.
+* Hacer una encuesta con gente hábil para describir: A que les sabe el “Currulao”? o como lo perciben desde el tacto? Y a que les sabe el “House”? y que textura tiene?	
+Y convertirlo a sonido con gente hábil en esta tarea.
 
 
 ### Experimentos
