@@ -31,6 +31,8 @@ Buscar similitudes y diferencias, depurarlas y llevarlas a musica.
 * Hacer una encuesta con gente hábil para describir: A que les sabe el “Currulao”? o como lo perciben desde el tacto? Y a que les sabe el “House”? y que textura tiene?	
 Y convertirlo a sonido con gente hábil en esta tarea.
 
+* Someter a un músico electro y un autóctono a una semana de escucha 24/7 sobre los géneros a fusionar, en una cámara sellada con parlantes….   Luego se le da un refrigerio y vuelve a entrar a la cámara pero esta vez a componer 30 piezas inspiradas en su escucha.
+
 
 ### Experimentos
 
