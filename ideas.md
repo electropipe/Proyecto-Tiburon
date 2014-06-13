@@ -26,8 +26,8 @@ Buscar similitudes y diferencias, depurarlas y llevarlas a musica.
 
 * poner a jammiar en una base de 4/4 a un musico autoctono de folclor a 6/8.  grabar la secion. picarla en loops y someterla a bailarines.  Anotar sus opiniones.  
 
-* Someter a un músico autóctono a que componga su música desde un secuenciador con sonido limitados al Dance.
-Someter a un músico electro a que componga su música desde un secuenciador con instrumentos autóctonos.
+* Someter a un músico autóctono a que componga su música desde un secuenciador con sonido limitados al Dance.    
+  Someter a un músico electro a que componga su música desde un secuenciador con instrumentos autóctonos.
 
 
 ### Experimentos
