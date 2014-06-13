@@ -6,8 +6,10 @@ El reto que pretende resolver este proyecto es
 
 ### Actividades
 
-Deconstruir ritmos de 6/8 y asignarle funciones de instrumentos así:
+Deconstruir ritmos de 6/8  y asignarle instrumentos del género electrónico así:
 <img src="http://i57.tinypic.com/mwyuki.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+Esto se vuelve complejo ya que son muchos géneros por combinar.  Para esto, Chuck es una herramienta muy  útil que puede solucionar esto, arrojando patrones en formato midi. 
 
 Crear una lista de 10 canciones que sean útiles para la investigación. 
 
