@@ -6,6 +6,9 @@ El reto que pretende resolver este proyecto es
 
 ### Actividades
 
+Deconstruir ritmos de 6/8 y asignarle funciones de instrumentos así:
+<img src="http://i57.tinypic.com/mwyuki.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
 Crear una lista de 10 canciones que sean útiles para la investigación. 
 
 Analizar canciones folclóricas que contengan 6/8 como base desde su su rítmica, armonia, melodia, timbres, alturas, velocidad, instrumentación, etc  
