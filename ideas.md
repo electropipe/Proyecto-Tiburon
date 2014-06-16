@@ -6,48 +6,28 @@ El reto que pretende resolver este proyecto es
 
 ### Actividades
 
-* Deconstruir ritmos de 6/8  y asignarle instrumentos del género electrónico así:
+1  Generar múltiples Grooves combinando los dos géneros con ayuda de chuck así:
 <img src="http://i57.tinypic.com/mwyuki.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
-Esto se vuelve complejo ya que son muchos géneros por combinar.  Para esto, Chuck es una herramienta muy  útil que puede solucionar esto, arrojando patrones en formato midi. 
 
-* Crear una lista de 10 canciones que sean útiles para la investigación. 
+2 Analizar 10 canciones desde su rítmica, armonía, melodía, timbres, alturas, velocidad, instrumentación, etc. Definir la prioridad sonora de sus elementos.   
 
-* Analizar canciones folclóricas que contengan 6/8 como base desde su su rítmica, armonia, melodia, timbres, alturas, velocidad, instrumentación, etc  
- 
-* Definir la prioridad sonora de sus elementos. 
+3 Generar un debate con 5 percusionistas sobre como lograr esto y tomar nota de los puntos de vista que salgan.   
 
-* Generar un debate con 5 percusionistas sobre como lograr esto y tomar nota de los puntos de vista que salgan.    
+4 Generar un debate con 5 bailarines sobre lo relevante del 6/8 y el 4/4. Depurarlo y re debatirlo con la charla de los percusionistas.     
 
-* Generar un debate con 5 bailarines sobre lo relevante del 6/8 y el 4/4. depurarlo y redebatirlo con la charla de los percusionistas.  
+5 Investigar los géneros desde lo antropológico      
 
-* investigar las raices desde el punto de vista antropologico, sobre un genero de 6/8 con un genero Dance.  
-Buscar similitudes y diferencias, depurarlas y llevarlas a musica.   
+6 Buscar similitudes y diferencias, depurarlas y llevarlas a música.   
+Poner a jammiar a un músico autóctono sobre una base dance. Someterla a bailarines. Anotar sus opiniones.   
+Someter a un músico autóctono a que componga su música desde un secuenciador con sonido limitados al Dance. Y viceversa.  
 
-* poner a jammiar en una base de 4/4 a un musico autoctono de folclor a 6/8.  grabar la secion. picarla en loops y someterla a bailarines.  Anotar sus opiniones.  
+7 Hacer una encuesta para describir desde los sentidos ambos géneros
 
-* Someter a un músico autóctono a que componga su música desde un secuenciador con sonido limitados al Dance.    
-  Someter a un músico electro a que componga su música desde un secuenciador con instrumentos autóctonos.
-* Hacer una encuesta con gente hábil para describir: A que les sabe el “Currulao”? o como lo perciben desde el tacto? Y a que les sabe el “House”? y que textura tiene?	
-Y convertirlo a sonido con gente hábil en esta tarea.
+8 Someter a un músico a escuchar por una semana y luego dedicarse a componer 30 piezas inspiradas en su escucha.
 
-* Someter a un músico electro y un autóctono a una semana de escucha 24/7 sobre los géneros a fusionar, en una cámara sellada con parlantes….   Luego se le da un refrigerio y vuelve a entrar a la cámara pero esta vez a componer 30 piezas inspiradas en su escucha.
+9 Calcar un currulao y pasarlo a sonido Dance.
+
+10 Sobreponer ritmos basado en técnicas de Techno.
 
 
-### Experimentos
-
-* Calcar un currulao y pasarlo a sonido Dance.  
-* Generar múltiples grooves a partir del paralelo rítmico entre currulao y Dance music  
-* Sobreponer ritmos basado en técnicas de Techno.  
-
-
-### Investigaciones alternas.  
-Como surgieron algunos géneros nuevos como el Reggaeton o el Dubstep?  
-Que define un genero?  
-Que define una fusión?  
-
-
-
-
-
-Prende el vela.
