@@ -16,10 +16,9 @@ El reto que pretende resolver este proyecto es
 
 4 Generar un debate con 5 bailarines sobre lo relevante del 6/8 y el 4/4. Depurarlo y re debatirlo con la charla de los percusionistas.     
 
-5 Investigar los géneros desde lo antropológico      
+5 Investigar los géneros desde lo antropológico, buscar similitudes y diferencias, depurarlas y llevarlas a música.    
 
-6 Buscar similitudes y diferencias, depurarlas y llevarlas a música.   
-Poner a jammiar a un músico autóctono sobre una base dance. Someterla a bailarines. Anotar sus opiniones.   
+6 Poner a jammiar a un músico autóctono sobre una base dance. Someterla a bailarines. Anotar sus opiniones.   
 Someter a un músico autóctono a que componga su música desde un secuenciador con sonido limitados al Dance. Y viceversa.  
 
 7 Hacer una encuesta para describir desde los sentidos ambos géneros
