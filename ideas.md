@@ -19,7 +19,6 @@ El reto que pretende resolver este proyecto es
 5 Investigar los géneros desde lo antropológico, buscar similitudes y diferencias, depurarlas y llevarlas a música.    
 
 6 Poner a jammiar a un músico autóctono sobre una base dance. Someterla a bailarines. Anotar sus opiniones.   
-Someter a un músico autóctono a que componga su música desde un secuenciador con sonido limitados al Dance. Y viceversa.  
 
 7 Hacer una encuesta para describir desde los sentidos ambos géneros
 
@@ -29,4 +28,4 @@ Someter a un músico autóctono a que componga su música desde un secuenciador 
 
 10 Sobreponer ritmos basado en técnicas de Techno.
 
-
+11 Someter a un músico autóctono a que componga su música desde un secuenciador con sonido limitados al Dance. Y viceversa. 
