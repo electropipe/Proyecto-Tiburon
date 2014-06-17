@@ -6,9 +6,7 @@ El reto que pretende resolver este proyecto es
 
 ### Actividades
 
-1  Generar múltiples Grooves combinando los dos géneros con ayuda de chuck así:
-<img src="http://i57.tinypic.com/mwyuki.png" border="0" alt="Image and video hosting by TinyPic"></a>
-
+1  Generar múltiples Grooves combinando los dos géneros con ayuda de chuck
 
 2 Analizar 10 canciones desde su rítmica, armonía, melodía, timbres, alturas, velocidad, instrumentación, etc. Definir la prioridad sonora de sus elementos.   
 
@@ -34,4 +32,19 @@ El reto que pretende resolver este proyecto es
 
 Confrontando y calificando!
 
+
+La idea ganadora fue:
+Generar múltiples Grooves combinando los dos géneros con ayuda de chuck:
+ 
+Expandiendo mas la idea, tomaremos dos géneros inicialmente y analizaremos su construcción:
+
+Que instrumentos contienen?
+Como son sus figuras rítmicas?
+Que función cumplen?
+Como son sus tímbricas?
+
+Basados en esta información haremos unas condiciones y procedemos a fusionar con ayuda de Chuck 
+los elementos que hay en cada genero así: 
+
+<img src="http://i57.tinypic.com/mwyuki.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
