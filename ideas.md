@@ -50,3 +50,10 @@ los elementos que hay en cada genero así:
 
 <img src="http://i57.tinypic.com/mwyuki.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
+Investigando:
+
+<img src="http://i57.tinypic.com/mwyuki.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+https://www.youtube.com/watch?v=1eF2RnwjyGQ
+
+
