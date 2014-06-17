@@ -33,8 +33,10 @@ El reto que pretende resolver este proyecto es
 Confrontando y calificando!
 
 
-La idea ganadora fue:
-Generar múltiples Grooves combinando los dos géneros con ayuda de chuck:
+La idea ganadora fue:   
+
+
+**Generar múltiples Grooves combinando los dos géneros con ayuda de chuck:**
  
 Expandiendo mas la idea, tomaremos dos géneros inicialmente y analizaremos su construcción:
 
